@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <rect x="10" y="10" width="80" height="40" fill="lightblue" stroke="black"/>
+  <text id="ants" x="20" y="35" font-size="16">0</text>
+
+  <rect x="110" y="10" width="80" height="40" fill="lightgreen" stroke="black"/>
+  <text id="bees" x="120" y="35" font-size="16">0</text>
+</svg>
